@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+      width="1440" height="750" viewBox="0 0 1440 750" role="img"
+      aria-label="Fahad GitHub profile terminal, dark theme">
+      <title>Fahad — developer terminal (dark)</title>
+      <desc>Developer information with live GitHub repository, star, commit and pull request statistics.</desc>
+      <defs>
+        <clipPath id="avatar-clip"><circle cx="244" cy="218" r="76"/></clipPath>
+        <linearGradient id="avatar-glow" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="#57adff"/><stop offset="1" stop-color="#55d6a0"/>
+        </linearGradient>
+        <filter id="soft-shadow" x="-20%" y="-20%" width="150%" height="150%">
+          <feGaussianBlur stdDeviation="8"/>
+        </filter>
+      </defs>
+      <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace">
+        <rect width="1440" height="750" fill="#070c15"/>
+        <rect x="34" y="41" width="1372" height="684" rx="19" fill="#02040a" opacity="0.23" filter="url(#soft-shadow)"/>
+        <rect x="26" y="24" width="1388" height="693" rx="18" fill="#101723" stroke="#2a3a50" stroke-width="2"/>
+        <path d="M 44 24 H 1396 Q 1414 24 1414 42 V 87 H 26 V 42 Q 26 24 44 24 Z" fill="#172231"/>
+        <path d="M 26 87 H 1414" stroke="#2a3a50"/>
+        <circle cx="59" cy="56" r="7" fill="#ff6c6b"/><circle cx="83" cy="56" r="7" fill="#ffbe4d"/><circle cx="107" cy="56" r="7" fill="#54c985"/>
+        <rect x="141" y="39" width="268" height="35" rx="8" fill="#101723"/>
+      
+<text x="157" y="63" font-size="15" fill="#57adff" font-weight="600" opacity="1">~/Fahad-NinjaTurtle</text>
+<text x="1381" y="61" font-size="14" fill="#8c9db6" font-weight="400" opacity="1" text-anchor="end" letter-spacing="1">PROFILE // v2.0</text>
+<rect x="43" y="103" width="422" height="597" rx="14" fill="#101e2d"/>
+<path d="M 487 118 V 685" stroke="#34475d" stroke-dasharray="3 8"/>
+<text x="66" y="135" font-size="15" fill="#8c9db6" font-weight="600" opacity="1">01 / identity</text>
+<text x="439" y="135" font-size="14" fill="#55d6a0" font-weight="400" opacity="1" text-anchor="end">[ online ]</text>
+<circle cx="244" cy="218" r="92" fill="none" stroke="#23415b" stroke-width="13"/>
+<circle cx="244" cy="218" r="81" fill="none" stroke="url(#avatar-glow)" stroke-width="5"/>
+<circle cx="244" cy="218" r="76" fill="#23415b"/>
+<g fill="#74c7aa"><circle cx="244" cy="202" r="36"/><path d="M 184 286 Q 184 241 244 241 Q 304 241 304 286 Z"/></g>
+<path d="M 209 199 Q 244 190 279 199" stroke="#101e2d" stroke-width="12" fill="none"/>
+<g fill="#101e2d"><circle cx="229" cy="199" r="4"/><circle cx="259" cy="199" r="4"/></g>
+<circle cx="308" cy="277" r="11" fill="#101e2d"/><circle cx="308" cy="277" r="6" fill="#55d6a0"/>
+<text x="244" y="332" font-size="32" fill="#eff6ff" font-weight="700" opacity="1" text-anchor="middle" letter-spacing="4">FAHAD</text>
+<text x="244" y="359" font-size="15" fill="#57adff" font-weight="400" opacity="1" text-anchor="middle">@Fahad-NinjaTurtle</text>
+<path d="M 100 383 H 388" stroke="#2a3a50"/>
+<text x="77" y="413" font-size="17" fill="#74c7aa" font-weight="500" opacity="1">         .-========-.</text>
+<text x="77" y="432" font-size="17" fill="#74c7aa" font-weight="500" opacity="1">      .-&#x27;  .------.  &#x27;-.</text>
+<text x="77" y="451" font-size="17" fill="#74c7aa" font-weight="500" opacity="1">    .&#x27;   .&#x27;  /\  &#x27;.   &#x27;.</text>
+<text x="77" y="470" font-size="17" fill="#74c7aa" font-weight="500" opacity="1">   /    /  /  \   \    \</text>
+<text x="77" y="489" font-size="17" fill="#74c7aa" font-weight="500" opacity="1">  |    |  | () |   |    |</text>
+<text x="77" y="508" font-size="17" fill="#74c7aa" font-weight="500" opacity="1">  |    |  |____|   |    |</text>
+<text x="77" y="527" font-size="17" fill="#74c7aa" font-weight="500" opacity="1">   \    \  &#x27;--&#x27;  /    /</text>
+<text x="77" y="546" font-size="17" fill="#74c7aa" font-weight="500" opacity="1">    &#x27;.   &#x27;------&#x27;   .&#x27;</text>
+<text x="77" y="565" font-size="17" fill="#74c7aa" font-weight="500" opacity="1">      &#x27;-.________.-&#x27;</text>
+<text x="77" y="584" font-size="17" fill="#74c7aa" font-weight="500" opacity="1">       _/ /    \ \_</text>
+<text x="77" y="603" font-size="17" fill="#74c7aa" font-weight="500" opacity="1">      /__/      \__\</text>
+<path d="M 100 650 H 388" stroke="#2a3a50"/>
+<text x="244" y="671" font-size="15" fill="#8c9db6" font-weight="400" opacity="1" text-anchor="middle">&gt; build • ship • repeat</text>
+<text x="526" y="145" font-size="21" fill="#57adff" font-weight="700" opacity="1">fahad@github</text>
+<text x="700" y="145" font-size="21" fill="#55d6a0" font-weight="700" opacity="1">~</text>
+<path d="M 733 139 H 1370" stroke="#34475d"/>
+<text x="526" y="181" font-size="14" fill="#57adff" font-weight="700" opacity="1" letter-spacing="2">SYSTEM</text>
+<text x="526" y="217" font-size="18" fill="#ffb86c" font-weight="600" opacity="1">Name:</text>
+<path d="M 595 211 H 970" stroke="#34475d" stroke-width="2" stroke-dasharray="2 7"/>
+<text x="988" y="217" font-size="18" fill="#eff6ff" font-weight="450" opacity="1">Fahad</text>
+<text x="526" y="251" font-size="18" fill="#ffb86c" font-weight="600" opacity="1">Building:</text>
+<path d="M 639 245 H 970" stroke="#34475d" stroke-width="2" stroke-dasharray="2 7"/>
+<text x="988" y="251" font-size="18" fill="#eff6ff" font-weight="450" opacity="1">Systems, games &amp; apps</text>
+<text x="526" y="285" font-size="18" fill="#ffb86c" font-weight="600" opacity="1">Organization:</text>
+<path d="M 683 279 H 970" stroke="#34475d" stroke-width="2" stroke-dasharray="2 7"/>
+<text x="988" y="285" font-size="18" fill="#eff6ff" font-weight="450" opacity="1">Tecshield</text>
+<text x="526" y="319" font-size="18" fill="#ffb86c" font-weight="600" opacity="1">Based in:</text>
+<path d="M 639 313 H 970" stroke="#34475d" stroke-width="2" stroke-dasharray="2 7"/>
+<text x="988" y="319" font-size="18" fill="#eff6ff" font-weight="450" opacity="1">Lahore, Pakistan</text>
+<text x="526" y="353" font-size="18" fill="#ffb86c" font-weight="600" opacity="1">GitHub:</text>
+<path d="M 617 347 H 970" stroke="#34475d" stroke-width="2" stroke-dasharray="2 7"/>
+<text x="988" y="353" font-size="18" fill="#eff6ff" font-weight="450" opacity="1">github.com/Fahad-NinjaTurtle</text>
+<text x="526" y="401" font-size="14" fill="#57adff" font-weight="700" opacity="1" letter-spacing="2">CONTACT</text>
+<path d="M 627 395 H 1370" stroke="#34475d"/>
+<text x="526" y="437" font-size="18" fill="#ffb86c" font-weight="600" opacity="1">Portfolio:</text>
+<path d="M 650 431 H 970" stroke="#34475d" stroke-width="2" stroke-dasharray="2 7"/>
+<text x="988" y="437" font-size="18" fill="#eff6ff" font-weight="450" opacity="1">www.fahadshahbaz.fun</text>
+<text x="526" y="471" font-size="18" fill="#ffb86c" font-weight="600" opacity="1">LinkedIn:</text>
+<path d="M 639 465 H 970" stroke="#34475d" stroke-width="2" stroke-dasharray="2 7"/>
+<text x="988" y="471" font-size="18" fill="#eff6ff" font-weight="450" opacity="1">pk.linkedin.com/in/abdulfahadshahbaz</text>
+<text x="526" y="515" font-size="14" fill="#57adff" font-weight="700" opacity="1" letter-spacing="2">GITHUB STATS / real data</text>
+<path d="M 815 508 H 1370" stroke="#34475d"/>
+<rect x="526" y="536" width="198" height="95" rx="10" fill="#142333" stroke="#2a3a50"/>
+<rect x="541" y="548" width="27" height="3" rx="1.5" fill="#57adff"/>
+<text x="542" y="578" font-size="13" fill="#8c9db6" font-weight="650" opacity="1" letter-spacing="0.3">PUBLIC REPOS</text>
+<text x="542" y="615" font-size="29" fill="#57adff" font-weight="700" opacity="1">20</text>
+<rect x="738" y="536" width="198" height="95" rx="10" fill="#142333" stroke="#2a3a50"/>
+<rect x="753" y="548" width="27" height="3" rx="1.5" fill="#ffb86c"/>
+<text x="754" y="578" font-size="13" fill="#8c9db6" font-weight="650" opacity="1" letter-spacing="0.3">STARS EARNED</text>
+<text x="754" y="615" font-size="29" fill="#ffb86c" font-weight="700" opacity="1">—</text>
+<rect x="950" y="536" width="198" height="95" rx="10" fill="#142333" stroke="#2a3a50"/>
+<rect x="965" y="548" width="27" height="3" rx="1.5" fill="#55d6a0"/>
+<text x="966" y="578" font-size="13" fill="#8c9db6" font-weight="650" opacity="1" letter-spacing="0.3">COMMITS / 365D</text>
+<text x="966" y="615" font-size="29" fill="#55d6a0" font-weight="700" opacity="1">—</text>
+<rect x="1162" y="536" width="198" height="95" rx="10" fill="#142333" stroke="#2a3a50"/>
+<rect x="1177" y="548" width="27" height="3" rx="1.5" fill="#f77785"/>
+<text x="1178" y="578" font-size="13" fill="#8c9db6" font-weight="650" opacity="1" letter-spacing="0.3">PRS / 365D</text>
+<text x="1178" y="615" font-size="29" fill="#f77785" font-weight="700" opacity="1">—</text>
+<text x="526" y="672" font-size="13" fill="#ffb86c" font-weight="700" opacity="1">LANGUAGES</text>
+<text x="658" y="672" font-size="15" fill="#c6d3e6" font-weight="400" opacity="1">Syncing primary repo languages...</text>
+<text x="1370" y="696" font-size="12" fill="#8c9db6" font-weight="400" opacity="1" text-anchor="end">Updated: awaiting first sync</text>
+</g></svg>
